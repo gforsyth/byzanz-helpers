@@ -1,3 +1,5 @@
+Original scripts created by RobW on [askubuntu](http://askubuntu.com/a/201018)
+
 ##byzanz-record-window
 
 Uses byzanz to record a selected window and creates an animated gif
